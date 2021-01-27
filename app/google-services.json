@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325385777860",
+    "project_id": "applica-f0811",
+    "storage_bucket": "applica-f0811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325385777860:android:8b6ed3c0ad90421a8acf91",
+        "android_client_info": {
+          "package_name": "com.example.applica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325385777860-0m7ae0ri8er3gv55o0c13huaaign1hhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqAw0FP6vuDIxSkQs0BFCHd6Q6b3JZPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325385777860-0m7ae0ri8er3gv55o0c13huaaign1hhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
